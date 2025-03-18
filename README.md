@@ -1,2 +1,2 @@
-(.vercelApp) @init /n
-#import App from './src';
+    (.vercelApp) @init
+    #import App from './src';
